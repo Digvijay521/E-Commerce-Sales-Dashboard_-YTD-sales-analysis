@@ -19,6 +19,7 @@ There are a number of ecommerce metrics we should be tracking in order to monito
 ![Picture2](https://user-images.githubusercontent.com/131915524/234696702-ded63ed2-e689-4fb0-aa5b-d7ec5e90bdfc.png) 
 
 3.	The trend of sum of Order Quantity for Order Date Month. The marks are labelled by sum of Order Quantity. Details are shown for YOY Quantity Margin. The data is filtered on Order Date Year, which keeps 2017.The view is filtered on sum of YTD Quantity LOD, which includes everything.
+
 ![Picture3](https://user-images.githubusercontent.com/131915524/234696726-2ea3860b-4787-494f-a808-c092c191db8c.png)
 
 
