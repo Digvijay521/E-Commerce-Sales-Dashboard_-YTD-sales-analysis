@@ -12,7 +12,7 @@ There are a number of ecommerce metrics we should be tracking in order to monito
 
 
 1.	The trend of sum of Sales for Order Date Month. The marks are labelled by sum of Sales. Details are shown for YOY sales margin. The data is filtered on Order Date Year, which keeps 2017.
- ![Picture1](https://user-images.githubusercontent.com/131915524/234696467-6ccf2b15-2969-41cd-8a24-a19a17ff7c26.png)
+![Picture1](https://user-images.githubusercontent.com/131915524/234696467-6ccf2b15-2969-41cd-8a24-a19a17ff7c26.png)
 
 
 2.	The trend of sum of Profit Per Order for Order Date Month. The marks are labelled by sum of Profit Per Order. Details are shown for YOY profit margin. The data is filtered on Order Date Year, which keeps 2017.
